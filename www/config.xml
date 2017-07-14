@@ -20,7 +20,6 @@
     </gap:config-file>
         
     <gap:config-file platform="android" parent="manifest">
-        <application android:debuggable= "true" />
         <application android:debuggable= "false" />
     </gap:config-file>
 
